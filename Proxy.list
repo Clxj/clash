@@ -3,7 +3,8 @@ DOMAIN-SUFFIX,viptwo.top
 DOMAIN-SUFFIX,followme.com
 DOMAIN-SUFFIX,followme.ceo
 DOMAIN-SUFFIX,whatsmydns.me
-DOMAIN-SUFFIX,luffyshare.com
+DOMAIN-SUFFIX,ghs.luffyshare.com
+DOMAIN-SUFFIX,hqs.luffyshare.com
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
